@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "caps": {
+    "imageQrAmountCap": 2000,
+    "maxEditableAmount": 100000
+  },
+  "policy": {
+    "enforceAbsoluteMandatory": false,
+    "enforceStaticMandatory": true,
+    "enforceDynamicMandatory": true,
+    "requireSignForSecureModes": false,
+    "enforceRelational": true,
+    "enforceValueChecks": true,
+    "p2pRejectIntentModes": false,
+    "unverifiedP2mRejectIntent04": false,
+    "unsignedImageQrCap": true,
+    "amountAtLeastMam": true,
+    "enforceFieldFormat": true,
+    "dynamicRequiresValidAmount": false,
+    "blockDynamicQrImage": true,
+    "downgradeDynamicToStatic": false,
+    "blockShareDynamicQr": true,
+    "injectSyntheticTr": false,
+    "downgradeOnlineToOffline": false,
+    "sourceAwareSynthesizedMode": true,
+    "stampQrMediumOutbound": false
+  }
+}

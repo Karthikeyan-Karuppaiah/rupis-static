@@ -1,0 +1,415 @@
+{
+  "files": {
+    "ads.json": {
+      "path": "ads.json",
+      "sha256": "395d85bcd2b2c7aaf1a3d36bc3a514bc38afa9ab43dac17b17483801eb490266"
+    },
+    "initiators.json": {
+      "path": "initiators.json",
+      "sha256": "f5becb8c2bdbb55d88ed9c5a000a75284a9815a33cae782b93b2cc344edf50b4"
+    },
+    "mcc.json": {
+      "path": "mcc.json",
+      "sha256": "61841fe6b6dc25aea709b6584661f2e47e4af2a4a5322652f0809b4d3bf3b681"
+    },
+    "payment.json": {
+      "path": "payment.json",
+      "sha256": "74e3f9eb8b0f83e0340ba54fa29051966870cd1adec2e78efbc4cc7bb5a2a6fc"
+    },
+    "providers.json": {
+      "path": "providers.json",
+      "sha256": "ce00ce9e73064c593bcd08a62eb592c46a92dd3038a0e406f35840a6d69bebf9"
+    },
+    "psp.json": {
+      "path": "psp.json",
+      "sha256": "6d5e3db2b07668c61c3383a16afa7bc25b68a9a2b4cb325a341b3b4c8941f90d"
+    },
+    "purpose.json": {
+      "path": "purpose.json",
+      "sha256": "12450d13a4b9b2abe66696b77437a53611e88b1712c04956976c5fac3b48792b"
+    }
+  },
+  "icons": {
+    "initiator_icons/airtelthanks.webp": {
+      "path": "initiator_icons/airtelthanks.webp",
+      "sha256": "240cf5b7c6413a2ad1d9a7b5c002ba42ad6d3b86d696f9aafd04d18aa5d35a7f"
+    },
+    "initiator_icons/ajio.webp": {
+      "path": "initiator_icons/ajio.webp",
+      "sha256": "0db4591135b36fa63a152cd5e0926293753a8a88b05936e6def0feebf369910d"
+    },
+    "initiator_icons/amazon.webp": {
+      "path": "initiator_icons/amazon.webp",
+      "sha256": "aa3e61fda0219508a2028c31ad88262817b24a64d492047030ef6fe39b8c0082"
+    },
+    "initiator_icons/apollo247.webp": {
+      "path": "initiator_icons/apollo247.webp",
+      "sha256": "7c04bde6815947e54c2edc8755873eccccc0357d0247e0027607deb9e3b1ff05"
+    },
+    "initiator_icons/bigbasket.webp": {
+      "path": "initiator_icons/bigbasket.webp",
+      "sha256": "a040b8803942491daf8f16055ef011b591983363ed6491cc142803a62d669b7f"
+    },
+    "initiator_icons/blinkit.webp": {
+      "path": "initiator_icons/blinkit.webp",
+      "sha256": "d873ba32c5bf948b0d617214878f50955616b14a73717d5654cee23c059542e2"
+    },
+    "initiator_icons/bookmyshow.webp": {
+      "path": "initiator_icons/bookmyshow.webp",
+      "sha256": "b317b56bf82c9caf03612de4c2eb92d2dccacb9cfa8ea643f020db7381c24221"
+    },
+    "initiator_icons/byjus.webp": {
+      "path": "initiator_icons/byjus.webp",
+      "sha256": "99a7fb2fff2cdcc99b134dd9da37380e8ba184030740da337a3388761e6705f1"
+    },
+    "initiator_icons/cleartrip.webp": {
+      "path": "initiator_icons/cleartrip.webp",
+      "sha256": "9e060a5b8be285727ddc7c6372c63edf73bc89d16f94785f45d3a38219580b5a"
+    },
+    "initiator_icons/confirmtkt.webp": {
+      "path": "initiator_icons/confirmtkt.webp",
+      "sha256": "6e8d7b2d1e84037966057f8afa896a449d2bb3abda4f470ea414d82e867d1f4d"
+    },
+    "initiator_icons/croma.webp": {
+      "path": "initiator_icons/croma.webp",
+      "sha256": "e239d24405265e4ee64a4fa8a575e204644e40430a3e160882db45d0bae0c870"
+    },
+    "initiator_icons/cultfit.webp": {
+      "path": "initiator_icons/cultfit.webp",
+      "sha256": "44df28079826cfa22efb87c8f6ac0598da25e063530ebae65e90af4d2fef952b"
+    },
+    "initiator_icons/dominos.webp": {
+      "path": "initiator_icons/dominos.webp",
+      "sha256": "21168023faffcfc892eab717f6c464f01669634b0ec706fa2929d9df22239b54"
+    },
+    "initiator_icons/dream11.webp": {
+      "path": "initiator_icons/dream11.webp",
+      "sha256": "71832127a317e5d5cbbe543979108713a292ecae556e19ebdf9fd8827cd6f4a4"
+    },
+    "initiator_icons/dunzo.webp": {
+      "path": "initiator_icons/dunzo.webp",
+      "sha256": "9071318ba04a8eee1bb83a69acf95cadc5f9d38b73f9f3d34f278ad1da731124"
+    },
+    "initiator_icons/easemytrip.webp": {
+      "path": "initiator_icons/easemytrip.webp",
+      "sha256": "2ecdc40d765885a5cc464316023ba498a87c683b3036d542a4000818649143ce"
+    },
+    "initiator_icons/firstcry.webp": {
+      "path": "initiator_icons/firstcry.webp",
+      "sha256": "53e6e66c38c00717627ce5642d0bf3ec1c2acb3549160abab43fec8b265952f1"
+    },
+    "initiator_icons/flipkart.webp": {
+      "path": "initiator_icons/flipkart.webp",
+      "sha256": "4294a1cd905c851e9889f0906bd4561e10f165ef4dd54d265bae009a8d731600"
+    },
+    "initiator_icons/goibibo.webp": {
+      "path": "initiator_icons/goibibo.webp",
+      "sha256": "9312b88b5150a65fe9523d5f68c28d9bc6cd1a1b7dfdda8166d49019ced25dc7"
+    },
+    "initiator_icons/groww.webp": {
+      "path": "initiator_icons/groww.webp",
+      "sha256": "e9b5f29c179b2acbf300a6e702235aa8c1575676f886800ef16c295693622432"
+    },
+    "initiator_icons/hotstar.webp": {
+      "path": "initiator_icons/hotstar.webp",
+      "sha256": "304136125de9e87af1fb02ea37fda5e4311f7986804b266e250898e04960035a"
+    },
+    "initiator_icons/irctc.webp": {
+      "path": "initiator_icons/irctc.webp",
+      "sha256": "073f87c730de8887cdefc9d68709cb1d5fba2c00b67d1c9d9061826c19f872f6"
+    },
+    "initiator_icons/ixigo.webp": {
+      "path": "initiator_icons/ixigo.webp",
+      "sha256": "39ed406c3afa85c586c8df92cbfe18474ec2c7a7682afe4731ed620af8754fc5"
+    },
+    "initiator_icons/jiocinema.webp": {
+      "path": "initiator_icons/jiocinema.webp",
+      "sha256": "cdb0ace9281138ba9706589728577039559c13a9140baa559335d20b5df1bbbd"
+    },
+    "initiator_icons/jiomart.webp": {
+      "path": "initiator_icons/jiomart.webp",
+      "sha256": "3a55e478126321fd68984f008b64900fc42727eaabd366f0f4a573c96c3cd066"
+    },
+    "initiator_icons/lenskart.webp": {
+      "path": "initiator_icons/lenskart.webp",
+      "sha256": "af9aef5b14be05472fce2e5abda47d0880e7bf5af599149417a5dd8d13eba436"
+    },
+    "initiator_icons/makemytrip.webp": {
+      "path": "initiator_icons/makemytrip.webp",
+      "sha256": "afc64a972ad4ea4f447ef52611846c1012f69b458d9d3b8a493e89a44d452dbd"
+    },
+    "initiator_icons/meesho.webp": {
+      "path": "initiator_icons/meesho.webp",
+      "sha256": "5c96c8c3f48943ddeff8ee12dd617484227ba739ecb9494cb78a115c885530d2"
+    },
+    "initiator_icons/mpl.webp": {
+      "path": "initiator_icons/mpl.webp",
+      "sha256": "0dd88921a019c52cd7925b315ee39ac54ec92acd99a97dcdc0af793bc2d1c54f"
+    },
+    "initiator_icons/myjio.webp": {
+      "path": "initiator_icons/myjio.webp",
+      "sha256": "d8ea14e7d0c9ec3bb59cd7c8da46e6cefcb0542094832401a6ec730a5fb626d7"
+    },
+    "initiator_icons/myntra.webp": {
+      "path": "initiator_icons/myntra.webp",
+      "sha256": "4fb385ce6ec784e1d82da63d4ac8eaf2424f9dee2039f30fd2f0b9e52f2d85ee"
+    },
+    "initiator_icons/netflix.webp": {
+      "path": "initiator_icons/netflix.webp",
+      "sha256": "201fbd196791e880ec13e6d27eca9f0041dc3b62526d9b51030f3af0fe89e0e7"
+    },
+    "initiator_icons/nobroker.webp": {
+      "path": "initiator_icons/nobroker.webp",
+      "sha256": "4c7eb2995dd6113aec80658133b30676aedfab90bf5bcc1fd4b669c30424656e"
+    },
+    "initiator_icons/nykaa.webp": {
+      "path": "initiator_icons/nykaa.webp",
+      "sha256": "d4ff68388dd0cffba3afc071e5e1cecc8399e4a262b775c1d70fa5989ad864df"
+    },
+    "initiator_icons/ola.webp": {
+      "path": "initiator_icons/ola.webp",
+      "sha256": "4b1b4ef915fcd025924b2b919bd943c1b30032771e63be61812720d8f439d906"
+    },
+    "initiator_icons/onemg.webp": {
+      "path": "initiator_icons/onemg.webp",
+      "sha256": "bfe50f28fc93140e20cc10e5a912ac89d020ed81405995cdb037070402d1711d"
+    },
+    "initiator_icons/oyo.webp": {
+      "path": "initiator_icons/oyo.webp",
+      "sha256": "1074880e06a018acd56745d901141ec32ebae4f595e11ce47aaf3a28c4c06ea4"
+    },
+    "initiator_icons/pharmeasy.webp": {
+      "path": "initiator_icons/pharmeasy.webp",
+      "sha256": "5e09bf85f42bbfc1337060d512d4f8fdb3c496827bb6b49cd98855148d607f0e"
+    },
+    "initiator_icons/practo.webp": {
+      "path": "initiator_icons/practo.webp",
+      "sha256": "615f0cd616b476bdf30e8924aa5fb2672272cc4954f4401602678d9c1967c504"
+    },
+    "initiator_icons/rapido.webp": {
+      "path": "initiator_icons/rapido.webp",
+      "sha256": "069b53e094d238eae26e43ec629d7b0a3b59a2c44bb04ee840cc25dcd52437ad"
+    },
+    "initiator_icons/redbus.webp": {
+      "path": "initiator_icons/redbus.webp",
+      "sha256": "786cce1db9f1415d3f563744359b26c0ce5d0f602ecd63c9ed0f4af5b4ca9d4f"
+    },
+    "initiator_icons/rupis.webp": {
+      "path": "initiator_icons/rupis.webp",
+      "sha256": "c5841fb58e72c587b66667069290e1b9780122f25cef766f822171180cca7f5b"
+    },
+    "initiator_icons/snapdeal.webp": {
+      "path": "initiator_icons/snapdeal.webp",
+      "sha256": "4c4b5ad97c79da5b67b8a27e397510bc420316f675096016517516b13367d09c"
+    },
+    "initiator_icons/sonyliv.webp": {
+      "path": "initiator_icons/sonyliv.webp",
+      "sha256": "7d0f6c751b5c0c69a8914dc8ed83be4d69d4b5df2aa2352da603dbc4fd72f92f"
+    },
+    "initiator_icons/spotify.webp": {
+      "path": "initiator_icons/spotify.webp",
+      "sha256": "ff2d36b6c60b4bd5d55be9594fba48020619ebfd991ab41b22dc39cd2e6524f1"
+    },
+    "initiator_icons/swiggy.webp": {
+      "path": "initiator_icons/swiggy.webp",
+      "sha256": "6a0cf62945f65e48e19690ebcebdafeb3426e2dea2e2cf30bd8763542275e19b"
+    },
+    "initiator_icons/tatacliq.webp": {
+      "path": "initiator_icons/tatacliq.webp",
+      "sha256": "e9a371a44462b7216a469010da68a382fd04279b8527b044bb086b6d03cf28d9"
+    },
+    "initiator_icons/tataneu.webp": {
+      "path": "initiator_icons/tataneu.webp",
+      "sha256": "b1ac26c06f2e833d7e267ccc0b6b40c6a024fd82b8640ed08b19ae0687d05d80"
+    },
+    "initiator_icons/uber.webp": {
+      "path": "initiator_icons/uber.webp",
+      "sha256": "82b833e1fcd064aa8d3056079feea69daf8a9cb80d7273c323aa6ab7e89a688c"
+    },
+    "initiator_icons/unacademy.webp": {
+      "path": "initiator_icons/unacademy.webp",
+      "sha256": "0fb80ca1044f2ea98887e67f6c6440da2e230a8b2194fa9ab5a450fbcf24a498"
+    },
+    "initiator_icons/upstox.webp": {
+      "path": "initiator_icons/upstox.webp",
+      "sha256": "532ca184ce5211613991ce1208200cf50fc5e27f059e33d8dd86991594a3aae7"
+    },
+    "initiator_icons/urbancompany.webp": {
+      "path": "initiator_icons/urbancompany.webp",
+      "sha256": "81a084ef06775cb2b9b72959f72d88e2abd9f038be0a7eaa711efcaf74a57f92"
+    },
+    "initiator_icons/zee5.webp": {
+      "path": "initiator_icons/zee5.webp",
+      "sha256": "30229bb7bd0d8f2248c44d66cc09dcf7ffa720f6cf1d0c4020434d897998af01"
+    },
+    "initiator_icons/zepto.webp": {
+      "path": "initiator_icons/zepto.webp",
+      "sha256": "2a016115fa2b8a78887c276bf4bd21a1b792dcd6a35646ecbd81a77513552f3f"
+    },
+    "initiator_icons/zerodha.webp": {
+      "path": "initiator_icons/zerodha.webp",
+      "sha256": "3a220f135fce493f0120db9734127f595c8425d5670879296268afbb400e3e5e"
+    },
+    "initiator_icons/zomato.webp": {
+      "path": "initiator_icons/zomato.webp",
+      "sha256": "5626a9a107b26761e99abd8ee1476918d0bdfc8b2070cae13800fa2d45a857be"
+    },
+    "psp_icons/amazonpay.webp": {
+      "path": "psp_icons/amazonpay.webp",
+      "sha256": "b1b8869415b8d744259c3279efaef58ed35852e99f3c7e9837e47c25acd5bda2"
+    },
+    "psp_icons/axispay.webp": {
+      "path": "psp_icons/axispay.webp",
+      "sha256": "24731b32aea2c73849093b3779abdc5e05b1a6e0221bc43fdefbed476d1d3363"
+    },
+    "psp_icons/bajajfinserv.webp": {
+      "path": "psp_icons/bajajfinserv.webp",
+      "sha256": "b72a3786721dab032839f7bb8358d4dcb3a69c50638fcc8f8267f583a316f073"
+    },
+    "psp_icons/bharatpe.webp": {
+      "path": "psp_icons/bharatpe.webp",
+      "sha256": "06ca6058d5d69847777651a54aa2e42a5865efb152af10606da7b23047dd96c9"
+    },
+    "psp_icons/bhim.webp": {
+      "path": "psp_icons/bhim.webp",
+      "sha256": "617a953bcdc005ccc381be78885d8d29863de2231e355ae786c1956763d13cdb"
+    },
+    "psp_icons/bhimsbi.webp": {
+      "path": "psp_icons/bhimsbi.webp",
+      "sha256": "b306e2adf0e683fd27415aaa438334973319d6dff4e347a3f36cfd92172e8c20"
+    },
+    "psp_icons/bob.webp": {
+      "path": "psp_icons/bob.webp",
+      "sha256": "4f3b7aef3eb3715bbd9649dd428468c2f08991baf1a1cee25c5f4fbc4f14d451"
+    },
+    "psp_icons/canara.webp": {
+      "path": "psp_icons/canara.webp",
+      "sha256": "61b1665453f21eb8ac5cc2bb2a0296a87ab147e806ca8b96f09020ec526bce1b"
+    },
+    "psp_icons/centralbank.webp": {
+      "path": "psp_icons/centralbank.webp",
+      "sha256": "c1ef9fcefdd1d16b189c48c139068b03ea552e9ff405a8ec3a9da5499958fc24"
+    },
+    "psp_icons/cred.webp": {
+      "path": "psp_icons/cred.webp",
+      "sha256": "138d108c81a941bea5228f0e1953669ae3ac11473f49d6148d84098d489f0698"
+    },
+    "psp_icons/cub.webp": {
+      "path": "psp_icons/cub.webp",
+      "sha256": "bf48c7be260a27dda6bed83575d3e6ba24bbc3ddcbdb6df3e04d15e14f6a7019"
+    },
+    "psp_icons/fampay.webp": {
+      "path": "psp_icons/fampay.webp",
+      "sha256": "e71c4cdb6c604159620508cbb16074fee0617181296d4b3e63c7c0e3b0079974"
+    },
+    "psp_icons/fi.webp": {
+      "path": "psp_icons/fi.webp",
+      "sha256": "886450e53744ff43bf196fd58215ed7eef3cfbc5e8d253d3402a364ba561c505"
+    },
+    "psp_icons/freecharge.webp": {
+      "path": "psp_icons/freecharge.webp",
+      "sha256": "c8f00940997e74a7b52136ca24d611f15f5456d675e25bc4ca993bc9e5c0370a"
+    },
+    "psp_icons/gpay.webp": {
+      "path": "psp_icons/gpay.webp",
+      "sha256": "4e150a52cfa03676bf7572400bc98980eab3bbf3914343f19e8e7876a4dbec4f"
+    },
+    "psp_icons/groww.webp": {
+      "path": "psp_icons/groww.webp",
+      "sha256": "1c3ffddc6a81f77d062da087abc075f684fa22d16ed36abe693174f8391e4bb3"
+    },
+    "psp_icons/hdfc.webp": {
+      "path": "psp_icons/hdfc.webp",
+      "sha256": "cf94a9ff78d1ef6f39a0de834bbb1e121ffe82c5063052449b3c627e175d4523"
+    },
+    "psp_icons/imobile.webp": {
+      "path": "psp_icons/imobile.webp",
+      "sha256": "a7df1402191e6bf7b9cb1cd433ccc24a979af4915de0a43374f90ffbd0167f9a"
+    },
+    "psp_icons/indusind.webp": {
+      "path": "psp_icons/indusind.webp",
+      "sha256": "9005dc4b04c4c41adca68a9285e02a77d922281480a6e3859daf45927d0e2f49"
+    },
+    "psp_icons/iob.webp": {
+      "path": "psp_icons/iob.webp",
+      "sha256": "6772f179f2507d55bf56d808aabee236d33e18489258d46b2435a11785d7df6b"
+    },
+    "psp_icons/jupiter.webp": {
+      "path": "psp_icons/jupiter.webp",
+      "sha256": "8f0e1acd419594fea8b308ae384f773df73a4b29ac44913830cbb27d63eaea34"
+    },
+    "psp_icons/kiwi.webp": {
+      "path": "psp_icons/kiwi.webp",
+      "sha256": "959fae657114447243fce17c0cfa716e2e6ad8a624f910086c8c8228d5a61659"
+    },
+    "psp_icons/kotak.webp": {
+      "path": "psp_icons/kotak.webp",
+      "sha256": "3290ebe0ec8d2e42b7f08846ee1721d658494ea244d4f1e0183ec9639611b75c"
+    },
+    "psp_icons/mobikwik.webp": {
+      "path": "psp_icons/mobikwik.webp",
+      "sha256": "3ba0b0fcd081a2a760b235d2ea96225aeb5903c3e914edda902b0e47f7f65faa"
+    },
+    "psp_icons/mock.webp": {
+      "path": "psp_icons/mock.webp",
+      "sha256": "3df5c89fb70fbd14cdd8258971b81751cbba2e1104b7a4d2e73a7e3a57f9469d"
+    },
+    "psp_icons/myjio.webp": {
+      "path": "psp_icons/myjio.webp",
+      "sha256": "fdd3abf2ccffb628c40b294d8db64dc7d9bb2bdf951bc005d8eea09af5040619"
+    },
+    "psp_icons/navi.webp": {
+      "path": "psp_icons/navi.webp",
+      "sha256": "2ec82619217a91d2276f7ed08859697d6af2dcacb772f9536cbf816327a67f13"
+    },
+    "psp_icons/omnicard.webp": {
+      "path": "psp_icons/omnicard.webp",
+      "sha256": "27c48d1c5f0c1348080c960422851b0e3dd1bf459c36236139a7ce5c654709f1"
+    },
+    "psp_icons/paytm.webp": {
+      "path": "psp_icons/paytm.webp",
+      "sha256": "53f41e06c2a7ca58bc9a647f01b40307a84d9396beaa62044c9b82ab0e582683"
+    },
+    "psp_icons/payzapp.webp": {
+      "path": "psp_icons/payzapp.webp",
+      "sha256": "127130dff9f638d2ce9e9c1a401751f6a1ada08c2c369c98bccee58ed4e8b5cf"
+    },
+    "psp_icons/phonepe.webp": {
+      "path": "psp_icons/phonepe.webp",
+      "sha256": "0fca407f5a314fa1a3bf48cda396deb3613908dceb3408a046f842ca74944e3c"
+    },
+    "psp_icons/pnb.webp": {
+      "path": "psp_icons/pnb.webp",
+      "sha256": "56fb4bee63e0f26c83493c1dfa42ff1ca74354238392127a6e1ef0e627df899b"
+    },
+    "psp_icons/sbi.webp": {
+      "path": "psp_icons/sbi.webp",
+      "sha256": "bfb34228f9501ab56197df746aef753b1a0616d071a02065b5373af1bf4111fd"
+    },
+    "psp_icons/shriramone.webp": {
+      "path": "psp_icons/shriramone.webp",
+      "sha256": "e8f1fce275f72231b32e8aac66b7493b786df9452189189e542998ce363df9b7"
+    },
+    "psp_icons/slice.webp": {
+      "path": "psp_icons/slice.webp",
+      "sha256": "0445f4727688443a42d798cec89f6e11312e85dcf1544cf1ef617ffdf88bac8e"
+    },
+    "psp_icons/tataneu.webp": {
+      "path": "psp_icons/tataneu.webp",
+      "sha256": "09faae3ad15a5bfe3295d7e637e1897790bb39273f6d3ac6be862305c3eebb0d"
+    },
+    "psp_icons/tmb.webp": {
+      "path": "psp_icons/tmb.webp",
+      "sha256": "a9a0d40d9089bf79e59d50dfdc4d0827d9bee6457c940d28807489b3ef35007a"
+    },
+    "psp_icons/unionbank.webp": {
+      "path": "psp_icons/unionbank.webp",
+      "sha256": "757ce4dd947a0240d92ccfbefeff92d4608e1c09c545602805e922abc8da279c"
+    },
+    "psp_icons/whatsapp.webp": {
+      "path": "psp_icons/whatsapp.webp",
+      "sha256": "19824f34973bf39246931034a0a0318655a49316664c29c83f4903ef8ffd70ae"
+    }
+  },
+  "version": 1791716641
+}
