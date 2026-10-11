@@ -1,0 +1,11 @@
+{
+  "bundle": {
+    "bytes": 67075311,
+    "path": "f7385008146a-o3-int8-v2.5810363d/rupis-ml-model",
+    "sha256": "93b779ab5b299f9021585ef388db847091eeffb10dd34f66a1db3ddc17517f6a"
+  },
+  "id": "github.com/rkuma18/FinancialSMS-NER/artifacts/best_ner_model@f7385008146a+o3-int8-v2.5810363d",
+  "key": "f7385008146a-o3-int8-v2.5810363d",
+  "modelSha256": "d3d98b8214300d76cad5d119d8f72afdcd84c19fc8a89831ac5066cc7bfa7f07",
+  "schema": 1
+}
