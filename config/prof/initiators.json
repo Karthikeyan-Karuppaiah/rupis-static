@@ -1,0 +1,759 @@
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "key": "amazon",
+      "name": "Amazon Shopping",
+      "aliases": [
+        "amazon",
+        "Amazon.in",
+        "Amazon Seller Services"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "in.amazon.mShop.android.shopping",
+      "icon": "amazon.webp",
+      "mock": false
+    },
+    {
+      "key": "flipkart",
+      "name": "Flipkart",
+      "aliases": [
+        "Flipkart Internet"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.flipkart.android",
+      "icon": "flipkart.webp",
+      "mock": false
+    },
+    {
+      "key": "myntra",
+      "name": "Myntra",
+      "aliases": [
+        "Myntra Designs"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.myntra.android",
+      "icon": "myntra.webp",
+      "mock": false
+    },
+    {
+      "key": "meesho",
+      "name": "Meesho",
+      "aliases": [
+        "Fashnear Technologies"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.meesho.supply",
+      "icon": "meesho.webp",
+      "mock": false
+    },
+    {
+      "key": "ajio",
+      "name": "AJIO",
+      "aliases": [
+        "Reliance Retail"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.ril.ajio",
+      "icon": "ajio.webp",
+      "mock": false
+    },
+    {
+      "key": "nykaa",
+      "name": "Nykaa",
+      "aliases": [
+        "FSN E-Commerce"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.fsn.nykaa",
+      "icon": "nykaa.webp",
+      "mock": false
+    },
+    {
+      "key": "jiomart",
+      "name": "JioMart",
+      "aliases": [
+        "Jio Mart"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.jpl.jiomart",
+      "icon": "jiomart.webp",
+      "mock": false
+    },
+    {
+      "key": "tatacliq",
+      "name": "Tata CLiQ",
+      "aliases": [
+        "tatacliq"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.tul.tatacliq",
+      "icon": "tatacliq.webp",
+      "mock": false
+    },
+    {
+      "key": "snapdeal",
+      "name": "Snapdeal",
+      "aliases": [
+        "Snap Deal"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.snapdeal.main",
+      "icon": "snapdeal.webp",
+      "mock": false
+    },
+    {
+      "key": "firstcry",
+      "name": "FirstCry",
+      "aliases": [
+        "First Cry",
+        "BrainBees Solutions"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "fc.admin.fcexpressadmin",
+      "icon": "firstcry.webp",
+      "mock": false
+    },
+    {
+      "key": "lenskart",
+      "name": "Lenskart",
+      "aliases": [
+        "Lenskart Solutions"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.lenskart.app",
+      "icon": "lenskart.webp",
+      "mock": false
+    },
+    {
+      "key": "croma",
+      "name": "Croma",
+      "aliases": [
+        "Infiniti Retail"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.refurbind.alliances.croma",
+      "icon": "croma.webp",
+      "mock": false
+    },
+    {
+      "key": "tataneu",
+      "name": "Tata Neu",
+      "aliases": [
+        "tataneu"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.tatadigital.tcp",
+      "icon": "tataneu.webp",
+      "mock": false
+    },
+    {
+      "key": "zomato",
+      "name": "Zomato",
+      "aliases": [
+        "Zomato - Food Delivery",
+        "Zomato - Delivery",
+        "Zomato Media Pvt Ltd"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.application.zomato",
+      "icon": "zomato.webp",
+      "mock": false
+    },
+    {
+      "key": "swiggy",
+      "name": "Swiggy",
+      "aliases": [
+        "Bundl Technologies",
+        "Swiggy Food"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "in.swiggy.android",
+      "icon": "swiggy.webp",
+      "mock": false
+    },
+    {
+      "key": "bigbasket",
+      "name": "BigBasket",
+      "aliases": [
+        "Big Basket",
+        "Innovative Retail Concepts"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.bigbasket.mobileapp",
+      "icon": "bigbasket.webp",
+      "mock": false
+    },
+    {
+      "key": "blinkit",
+      "name": "Blinkit",
+      "aliases": [
+        "Grofers"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.grofers.customerapp",
+      "icon": "blinkit.webp",
+      "mock": false
+    },
+    {
+      "key": "zepto",
+      "name": "Zepto",
+      "aliases": [
+        "Zepto - 10 Min Delivery"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.zeptoconsumerapp",
+      "icon": "zepto.webp",
+      "mock": false
+    },
+    {
+      "key": "dunzo",
+      "name": "Dunzo",
+      "aliases": [
+        "Dunzo Daily"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.dunzo.user1",
+      "icon": "dunzo.webp",
+      "mock": false
+    },
+    {
+      "key": "dominos",
+      "name": "Domino's Pizza",
+      "aliases": [
+        "dominos",
+        "Domino's",
+        "Dominos Pizza",
+        "Jubilant FoodWorks"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.Dominos",
+      "icon": "dominos.webp",
+      "mock": false
+    },
+    {
+      "key": "uber",
+      "name": "Uber",
+      "aliases": [
+        "Uber India"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.ubercab",
+      "icon": "uber.webp",
+      "mock": false
+    },
+    {
+      "key": "ola",
+      "name": "Ola",
+      "aliases": [
+        "Ola Cabs",
+        "ANI Technologies"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.olacabs.customer",
+      "icon": "ola.webp",
+      "mock": false
+    },
+    {
+      "key": "rapido",
+      "name": "Rapido",
+      "aliases": [
+        "Rapido Bike Taxi"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.rapido.passenger",
+      "icon": "rapido.webp",
+      "mock": false
+    },
+    {
+      "key": "makemytrip",
+      "name": "MakeMyTrip",
+      "aliases": [
+        "MMT",
+        "Make My Trip"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.makemytrip",
+      "icon": "makemytrip.webp",
+      "mock": false
+    },
+    {
+      "key": "goibibo",
+      "name": "Goibibo",
+      "aliases": [
+        "Ibibo Group"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.goibibo",
+      "icon": "goibibo.webp",
+      "mock": false
+    },
+    {
+      "key": "cleartrip",
+      "name": "Cleartrip",
+      "aliases": [
+        "Clear Trip"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.cleartrip.android",
+      "icon": "cleartrip.webp",
+      "mock": false
+    },
+    {
+      "key": "easemytrip",
+      "name": "EaseMyTrip",
+      "aliases": [
+        "Ease My Trip"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.easemytrip.android",
+      "icon": "easemytrip.webp",
+      "mock": false
+    },
+    {
+      "key": "oyo",
+      "name": "OYO",
+      "aliases": [
+        "OYO Rooms",
+        "Oravel Stays"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.oyo.consumer",
+      "icon": "oyo.webp",
+      "mock": false
+    },
+    {
+      "key": "irctc",
+      "name": "IRCTC Rail Connect",
+      "aliases": [
+        "irctc",
+        "Rail Connect",
+        "Indian Railway"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "cris.org.in.prs.ima",
+      "icon": "irctc.webp",
+      "mock": false
+    },
+    {
+      "key": "redbus",
+      "name": "redBus",
+      "aliases": [
+        "Red Bus"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "in.redbus.android",
+      "icon": "redbus.webp",
+      "mock": false
+    },
+    {
+      "key": "ixigo",
+      "name": "ixigo",
+      "aliases": [
+        "ixigo Trains",
+        "Le Travenues Technology"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.ixigo.train.ixitrain",
+      "icon": "ixigo.webp",
+      "mock": false
+    },
+    {
+      "key": "confirmtkt",
+      "name": "ConfirmTkt",
+      "aliases": [
+        "Confirm Tkt"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.confirmtkt.lite",
+      "icon": "confirmtkt.webp",
+      "mock": false
+    },
+    {
+      "key": "bookmyshow",
+      "name": "BookMyShow",
+      "aliases": [
+        "BMS",
+        "Big Tree Entertainment"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.bt.bms",
+      "icon": "bookmyshow.webp",
+      "mock": false
+    },
+    {
+      "key": "hotstar",
+      "name": "JioHotstar",
+      "aliases": [
+        "hotstar",
+        "Disney+ Hotstar"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "in.startv.hotstar",
+      "icon": "hotstar.webp",
+      "mock": false
+    },
+    {
+      "key": "netflix",
+      "name": "Netflix",
+      "aliases": [],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.netflix.mediaclient",
+      "icon": "netflix.webp",
+      "mock": false
+    },
+    {
+      "key": "spotify",
+      "name": "Spotify",
+      "aliases": [],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.spotify.music",
+      "icon": "spotify.webp",
+      "mock": false
+    },
+    {
+      "key": "sonyliv",
+      "name": "SonyLIV",
+      "aliases": [
+        "SONY LIV",
+        "Sony Pictures Networks"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.sonyliv",
+      "icon": "sonyliv.webp",
+      "mock": false
+    },
+    {
+      "key": "zee5",
+      "name": "ZEE5",
+      "aliases": [
+        "Zee Five"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.graymatrix.did",
+      "icon": "zee5.webp",
+      "mock": false
+    },
+    {
+      "key": "jiocinema",
+      "name": "JioCinema",
+      "aliases": [
+        "Jio Cinema"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.jio.media.ondemand",
+      "icon": "jiocinema.webp",
+      "mock": false
+    },
+    {
+      "key": "airtelthanks",
+      "name": "Airtel Thanks",
+      "aliases": [
+        "airtel",
+        "Bharti Airtel"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.myairtelapp",
+      "icon": "airtelthanks.webp",
+      "mock": false
+    },
+    {
+      "key": "myjio",
+      "name": "MyJio",
+      "aliases": [
+        "jio",
+        "Reliance Jio"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.jio.myjio",
+      "icon": "myjio.webp",
+      "mock": false
+    },
+    {
+      "key": "zerodha",
+      "name": "Zerodha Kite",
+      "aliases": [
+        "zerodha",
+        "Kite"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.zerodha.kite3",
+      "icon": "zerodha.webp",
+      "mock": false
+    },
+    {
+      "key": "groww",
+      "name": "Groww",
+      "aliases": [
+        "Nextbillion Technology"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.nextbillion.groww",
+      "icon": "groww.webp",
+      "mock": false
+    },
+    {
+      "key": "upstox",
+      "name": "Upstox",
+      "aliases": [
+        "RKSV Securities"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "in.upstox.app",
+      "icon": "upstox.webp",
+      "mock": false
+    },
+    {
+      "key": "dream11",
+      "name": "Dream11",
+      "aliases": [
+        "Dream Eleven",
+        "Dream 11"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.dream11.fantasy.cricket.football.kabaddi",
+      "icon": "dream11.webp",
+      "mock": false
+    },
+    {
+      "key": "mpl",
+      "name": "MPL",
+      "aliases": [
+        "Mobile Premier League",
+        "Galactus Funware"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.bibliocommons.mpl",
+      "icon": "mpl.webp",
+      "mock": false
+    },
+    {
+      "key": "pharmeasy",
+      "name": "PharmEasy",
+      "aliases": [
+        "Pharm Easy"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.phonegap.rxpal",
+      "icon": "pharmeasy.webp",
+      "mock": false
+    },
+    {
+      "key": "onemg",
+      "name": "1mg",
+      "aliases": [
+        "Tata 1mg",
+        "one mg",
+        "Aranoah"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.aranoah.healthkart.plus",
+      "icon": "onemg.webp",
+      "mock": false
+    },
+    {
+      "key": "apollo247",
+      "name": "Apollo 247",
+      "aliases": [
+        "apollo247",
+        "Apollo 24/7",
+        "Apollo Pharmacy"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.apollo.patientapp",
+      "icon": "apollo247.webp",
+      "mock": false
+    },
+    {
+      "key": "practo",
+      "name": "Practo",
+      "aliases": [
+        "Practo Technologies"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.practo.fabric",
+      "icon": "practo.webp",
+      "mock": false
+    },
+    {
+      "key": "cultfit",
+      "name": "cult.fit",
+      "aliases": [
+        "cult",
+        "Cultfit",
+        "Curefit",
+        "Cure.fit"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "fit.cure.android",
+      "icon": "cultfit.webp",
+      "mock": false
+    },
+    {
+      "key": "byjus",
+      "name": "BYJU'S",
+      "aliases": [
+        "byjus",
+        "Think and Learn"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.byjus.thelearningapp",
+      "icon": "byjus.webp",
+      "mock": false
+    },
+    {
+      "key": "unacademy",
+      "name": "Unacademy",
+      "aliases": [
+        "Sorting Hat Technologies"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.unacademyapp",
+      "icon": "unacademy.webp",
+      "mock": false
+    },
+    {
+      "key": "urbancompany",
+      "name": "Urban Company",
+      "aliases": [
+        "UrbanClap"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.urbanclap.urbanclap",
+      "icon": "urbancompany.webp",
+      "mock": false
+    },
+    {
+      "key": "nobroker",
+      "name": "NoBroker",
+      "aliases": [
+        "No Broker"
+      ],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.nobroker.app",
+      "icon": "nobroker.webp",
+      "mock": false
+    },
+    {
+      "key": "rupis",
+      "name": "Rupis",
+      "aliases": [],
+      "launchScheme": "",
+      "detectScheme": "",
+      "launchUniversal": "",
+      "package": "com.kkarthikeyanhsn.rupis",
+      "icon": "rupis.webp",
+      "mock": false
+    }
+  ]
+}

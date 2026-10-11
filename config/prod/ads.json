@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "nonProduction":        { "onsetDays": 0, "probability": 1.0, "maxPerSession": 1 },
+  "homeListInterleave":   { "onsetDays": 3, "probability": 0.6, "maxPerSession": 3 },
+  "homeEmpty":            { "onsetDays": 7, "probability": 0.4, "maxPerSession": 1 },
+  "labelsListInterleave": { "onsetDays": 3, "probability": 0.5, "maxPerSession": 2 },
+  "labelsEmpty":          { "onsetDays": 7, "probability": 0.4, "maxPerSession": 1 },
+  "undoEmpty":            { "onsetDays": 7, "probability": 0.4, "maxPerSession": 1 },
+  "historyListInterleave":{ "onsetDays": 3, "probability": 0.6, "maxPerSession": 3 },
+  "historyEmpty":         { "onsetDays": 7, "probability": 0.4, "maxPerSession": 1 },
+  "reportsEmpty":         { "onsetDays": 7, "probability": 0.4, "maxPerSession": 1 },
+  "homeLabelsCarousel":   { "onsetDays": 3, "probability": 0.6, "maxPerSession": 1 },
+  "paymentOutcome":       { "onsetDays": 3, "probability": 0.5, "maxPerSession": 2 },
+  "vaultListInterleave":  { "onsetDays": 3, "probability": 0.5, "maxPerSession": 2 },
+  "vaultEmpty":           { "onsetDays": 7, "probability": 0.4, "maxPerSession": 1 }
+}
